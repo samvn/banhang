@@ -1,0 +1,2 @@
+[05-Jun-2013 04:41:01] PHP Parse error:  syntax error, unexpected '}' in /home/phamios/public_html/visapoint.eu.com/application/controllers/welcome.php on line 147
+[05-Jun-2013 05:15:42] PHP Fatal error:  Call to undefined function  printr() in /home/phamios/public_html/visapoint.eu.com/application/controllers/welcome.php on line 144
